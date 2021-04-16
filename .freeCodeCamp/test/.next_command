@@ -487,3 +487,9 @@ psql --username=freecodecamp --dbname=postgres
 ls --color=auto
 rem students_test.csv
 rm students_test.csv
+rm courses_test.csv
+rm courses_test.csv
+touch courses_test.csv
+rm courses_test.csv
+touch courses_test.csv
+rm courses_test.csv
