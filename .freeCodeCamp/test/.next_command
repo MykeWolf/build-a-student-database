@@ -160,3 +160,4 @@ chmod +x
 chmod+x
 chmod --help
 chmod +x insert_data.sh
+./insert_data.sh
