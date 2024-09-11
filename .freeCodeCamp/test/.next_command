@@ -168,3 +168,6 @@ __vsc_prompt_cmd_original
 ./insert_data.sh
 ./insert_data.sh
 __vsc_prompt_cmd_original
+cp courses.csv coursed_test.csv
+rm coursed_test.csv
+cp courses.csv courses_test.csv
