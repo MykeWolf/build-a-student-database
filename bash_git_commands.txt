@@ -1,0 +1,74 @@
+    1  git remote set-url origin https://github.com/MykeWolf/build-a-student-database.git
+    2  git branch -M main
+    3  git push -u origin main
+    4  git pull origin main
+    5  git config pull.ff only
+    6  git pull origin main
+    7  git merge --no-ff origin/main
+    8  git merge origin/main --allow-unrelated-histories
+    9  git push origin main
+   10  clear
+   11  echo hello sql
+   12  echo hello SQL
+   13  psql --username=freecodecamp --dbname=postgres
+   14  psql --username=freecodecamp --dbname=postgres
+   15  touch insert_data.sh
+   16  chmod +x
+   17  chmod+x
+   18  chmod --help
+   19  chmod +x insert_data.sh
+   20  ./insert_data.sh
+   21  ./insert_data.sh
+   22  declare -p IFS
+   23  ./insert_data.sh
+   24  ./insert_data.sh
+   25  ./insert_data.sh
+   26  cp courses.csv coursed_test.csv
+   27  rm coursed_test.csv
+   28  cp courses.csv courses_test.csv
+   29  ./insert_data.sh
+   30  ./insert_data.sh
+   31  psql --username=freecodecamp --dbname=postgres
+   32  ls
+   33  ./insert_data.sh
+   34  ./insert_data.sh
+   35  ./insert_data.sh
+   36  ./insert_data.sh
+   37  ./insert_data.sh
+   38  cp students.csv students_test.csv
+   39  git status
+   40  git add .
+   41  git status
+   42  git commit -m "new files created"
+   43  git status
+   44  git push origin main
+   45  git status
+   46  ./insert_data.sh
+   47  ./insert_data.sh
+   48  ./insert_data.sh
+   49  ./insert_data.sh
+   50  ./insert_data.sh
+   51  git status
+   52  git push origin main
+   53  git status
+   54  psql --username=freecodecamp --dbname=postgres
+   55  ls
+   56  rem students_test.csv
+   57  rm students_test.csv
+   58  rm courses_test.csv
+   59  rm courses_test.csv
+   60  touch courses_test.csv
+   61  rm courses_test.csv
+   62  touch courses_test.csv
+   63  rm courses_test.csv
+   64  ls
+   65  pg_dump --help
+   66  pg_dump --clean --create --inserts --username=freecodecamp students > students.sql
+   67  git status
+   68  git add .
+   69  git status
+   70  git push origin main
+   71  git status
+   72  git commit -m "created sql dump of all commands used in postgress" students.sql
+   73  history
+   74  history > bash_git_commands.txt
