@@ -485,3 +485,5 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 psql --username=freecodecamp --dbname=postgres
 ls --color=auto
+rem students_test.csv
+rm students_test.csv
